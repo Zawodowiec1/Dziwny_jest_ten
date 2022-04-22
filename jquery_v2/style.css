@@ -1,0 +1,19 @@
+body{
+    background-image: url(PR1.png);
+    background-repeat: repeat-x;
+    
+}
+#pr{
+    text-align: center;
+    font-size: 2cm;
+}
+h2{
+    text-align: center;
+    border-style: outset;
+    background-color: red;
+}
+p{
+    border-style: outset;
+    background-color: white;
+}
+
